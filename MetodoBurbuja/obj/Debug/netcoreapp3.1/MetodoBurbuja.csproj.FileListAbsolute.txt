@@ -1,0 +1,11 @@
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\140420 METODO BURBUJA\MetodoBurbuja\MetodoBurbuja\bin\Debug\netcoreapp3.1\MetodoBurbuja.exe
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\140420 METODO BURBUJA\MetodoBurbuja\MetodoBurbuja\bin\Debug\netcoreapp3.1\MetodoBurbuja.deps.json
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\140420 METODO BURBUJA\MetodoBurbuja\MetodoBurbuja\bin\Debug\netcoreapp3.1\MetodoBurbuja.runtimeconfig.json
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\140420 METODO BURBUJA\MetodoBurbuja\MetodoBurbuja\bin\Debug\netcoreapp3.1\MetodoBurbuja.runtimeconfig.dev.json
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\140420 METODO BURBUJA\MetodoBurbuja\MetodoBurbuja\bin\Debug\netcoreapp3.1\MetodoBurbuja.dll
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\140420 METODO BURBUJA\MetodoBurbuja\MetodoBurbuja\bin\Debug\netcoreapp3.1\MetodoBurbuja.pdb
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\140420 METODO BURBUJA\MetodoBurbuja\MetodoBurbuja\obj\Debug\netcoreapp3.1\MetodoBurbuja.csprojAssemblyReference.cache
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\140420 METODO BURBUJA\MetodoBurbuja\MetodoBurbuja\obj\Debug\netcoreapp3.1\MetodoBurbuja.AssemblyInfoInputs.cache
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\140420 METODO BURBUJA\MetodoBurbuja\MetodoBurbuja\obj\Debug\netcoreapp3.1\MetodoBurbuja.AssemblyInfo.cs
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\140420 METODO BURBUJA\MetodoBurbuja\MetodoBurbuja\obj\Debug\netcoreapp3.1\MetodoBurbuja.dll
+D:\IP LEONES\SEMESTRE3\PROGRAMACION 2\140420 METODO BURBUJA\MetodoBurbuja\MetodoBurbuja\obj\Debug\netcoreapp3.1\MetodoBurbuja.pdb
